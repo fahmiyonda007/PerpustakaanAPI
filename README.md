@@ -1,4 +1,5 @@
 ## Usage
 
 1. Clone/Download a repo.
-2. running app `dotnet run`
+2. change the ConnetctionStrings in the `appsettings.json` file and adjust it to your database
+3. running app `dotnet run`
