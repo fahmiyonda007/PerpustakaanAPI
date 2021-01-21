@@ -1,4 +1,5 @@
 ## Usage 1
+
 1. Clone/Download a repo.
    ```sh
    git clone https://github.com/fahmiyonda007/PerpustakaanAPI
@@ -8,7 +9,8 @@
    "PerpustakaanConnection": "Server= 'ENTER YOUR SERVER';Initial Catalog= 'ENTER YOUR DB';User Id= 'ENTER YOUR USERID';Password= 'ENTER YOUR PASSWORD';"
    ```  
 3. Open folder `bin/Debug/netcoreapp3.1`
-3. Running app `Perpustakaan.exe`
+4. Running app `Perpustakaan.exe`
+
 
 ## Usage 2
 
