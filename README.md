@@ -21,7 +21,7 @@
    ```json
    "PerpustakaanConnection": "Server= 'ENTER YOUR SERVER';Initial Catalog= 'ENTER YOUR DB';User Id= 'ENTER YOUR USERID';Password= 'ENTER YOUR PASSWORD';"
    ```
-4. running app via command line / ps
+4. running app using terminal `CTRL + J` and select `TERMINAL` tab
    ```sh
    dotnet run
    ```
